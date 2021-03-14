@@ -2,11 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: KAKAO Mobility 관제 서비스플랫폼의 성공적인 PoC / 정식계약 체결
+  role: Cloud Connect / QA파트장
+  duration: 2020.07 &mdash; 현재까지
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: ai 알고리즘을 통해 얻어진 데이터를 기반으로 고객이 원하는 정보를 서비스 구현함에 있어 QA업무를 담당하고 있습니다.
+QA프로세스 정립<br>
+요구사항 분석 및 테스트 설계<br>
+리스크 분석<br>
+탐색적 테스팅기법의 TC실행 및 피드백<br>
+이슈 추적 및 관리<br>
+개발 팀원들의 효율적인 업무처리를 위한 JIRA Tool운용 및 개선<br>
+jQuery를 활용한 필터<br>
+Jenkins를 활용한 통합버전관리<br>
+부하테스트 및 API테스트 설계<br>
+Git, Jenkins, Jira, Confluence, Slack, AWS S3, jQuery, jmeter, Postman
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
