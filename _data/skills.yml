@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: CMMI & ISO 29119
+  description: SW 성숙도 모델별 산출물을 정의하고 프로세스를 개선할 수 있습니다.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Communications
+  description: 합리적인 의사결정을 존중합니다.<br>소통은 많이하는게 좋다고 생각합니다.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Tooling
+  description: Jira, Confluence, Slack, Trello외 Excel,Word등의 활용을 매우 잘합니다.<br>CI를 이용하여 버전관리에 활용합니다.<br>jQuery를 이용하여 필터및추출을 할 수 있습니다.
+  
+- skill: Testing
+  description: Ad-Hoc부터 탐색적테스트, UI자동화 테스트까지 설계 및 실행이 가능합니다.
+
