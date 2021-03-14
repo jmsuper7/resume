@@ -3,7 +3,7 @@
 
 # jazznotes.io
 - project: KAKAO Mobility 관제 서비스플랫폼의 성공적인 PoC<br>정식계약 체결
-  role: Cloud Connect / QA파트장
+  role: SW QA Engineer
   duration: 2020.07 &mdash; 현재까지
   # url: "#"
   description: ai 알고리즘을 통해 얻어진 데이터를 기반으로 고객이 원하는 정보를 서비스 구현함에 있어 QA업무를 담당하고 있습니다.<br>
@@ -11,8 +11,8 @@
                Git, Jenkins, Jira, Confluence, Slack, AWS S3, jQuery, jmeter, Postman
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: E-Commerce를 위한 Android App개발<br>국내 VAN 및 미국 Retail Shop 계약체결
+  role: SW QA Engineer
+  duration: 2015.10 &mdash; 2018.05
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: B2C, B2B 요구사항 분석 및 정의서도출<br>테스트 설계및실행<br>결함관리 및 추적<br>SVN, Eclipse, Android Studio, JIRA, Redmine, Confluence
