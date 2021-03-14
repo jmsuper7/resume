@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: 멀티미디어공학
+  uni: 전주대학교
+  year: 2001 &mdash; 2010
+  #awards:
+    #- award: Summa Cumme Laude graduate
+  summary: 개인사정으로 인하여 졸업이 늦어졌지만<br>주어진 환경에서 최선을 다해 준수한 성적으로 졸업하였습니다.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+#- degree: High School Diploma
+  #uni: Springfield High School
+  #year: 2004
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
