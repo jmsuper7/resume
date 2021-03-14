@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: KAKAO Mobility 관제 서비스플랫폼의 성공적인 PoC<br>정식계약 체결
+- project: KAKAO Mobility 관제 서비스플랫폼의 성공적인 PoC-정식계약 체결
   role: SW QA Engineer
   duration: 2020.07 &mdash; 현재까지
   # url: "#"
@@ -11,14 +11,26 @@
                Git, Jenkins, Jira, Confluence, Slack, AWS S3, jQuery, jmeter, Postman
 
 # Springfield Community Outreach Group
-- project: E-Commerce를 위한 Android App개발<br>국내 VAN 및 미국 Retail Shop 계약체결
+- project: E-Commerce를 위한 Android App개발-국내 VAN 및 미국 Retail Shop 계약체결
   role: SW QA Engineer
   duration: 2015.10 &mdash; 2018.05
   # url: "#"
   description: B2C, B2B 요구사항 분석 및 정의서도출<br>테스트 설계및실행<br>결함관리 및 추적<br>SVN, Eclipse, Android Studio, JIRA, Redmine, Confluence
 
-- project: E-Commerce를 위한 Android App개발<br>국내 VAN 및 미국 Retail Shop 계약체결
+- project: Agile 프로세스 정립-App릴리즈 일정단축 및 결함 피드백 시간단축
   role: SW QA Engineer
-  duration: 2015.10 &mdash; 2018.05
+  duration: 2017.01 &mdash; 2017.04
   # url: "#"
-  description: B2C, B2B 요구사항 분석 및 정의서도출<br>테스트 설계및실행<br>결함관리 및 추적<br>SVN, Eclipse, Android Studio, JIRA, Redmine, Confluence
+  description: Agile프로세스의 교육이수 및 조사<br>Lean경량화 프로세스의 업무Flow 계획 및 조직구성<br>Scrum,Lean, Trello, JIRA,Confluence
+
+- project: 리스크 기반 테스트 프로세스 도입-Side Effect 발견율 20%향상
+  role: SW QA Engineer
+  duration: 2016.02 &mdash; 2016.04
+  # url: "#"
+  description: 리스크 기반 테스트기법을 계획하여 QA프로세스에 도입<br>Risk Analysis File
+  
+  project: 자사 온라인 결제시스템의 UI개선
+  role: SW QA Engineer
+  duration: 2016.02 &mdash; 2016.04
+  # url: "#"
+  description: UI 조사 및 문제점분석, UI테스트 계획 및 실행담당<br>Mokey Test
