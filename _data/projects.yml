@@ -29,8 +29,20 @@
   # url: "#"
   description: 리스크 기반 테스트기법을 계획하여 QA프로세스에 도입<br>Risk Analysis File
   
-  project: 자사 온라인 결제시스템의 UI개선
+- project: 자사 온라인 결제시스템의 UI개선
   role: SW QA Engineer
   duration: 2016.02 &mdash; 2016.04
   # url: "#"
   description: UI 조사 및 문제점분석, UI테스트 계획 및 실행담당<br>Mokey Test
+  
+- project: 품질 정책 및 방향성 확립을 통한 QA프로세스 개선
+  role: SW QA Engineer
+  duration: 2013.01 &mdash; 2013.03
+  # url: "#"
+  description: 전사적 품질 정책 및 품질의 방향성을 제시하고 재정함<br>QA프로세스를 새롭게 정의하고 개선하여 업무효율을 증대함<br>CMMI
+
+- project: CMMI 인증을 위한 소프트웨어 품질보증 기준마련
+  role: SW QA Engineer
+  duration: 2010.01 &mdash; 2012.01
+  # url: "#"
+  description:소프트웨어 제품, 서비스의 개발 및 유지보수를 위한 개발조직의 공정 및 관리 능력을 향상시키기 위한 가이드 제시<br>능력 성숙도 모델별 산출물정의<br>개발환경별 QA프로세스의 정립가능
